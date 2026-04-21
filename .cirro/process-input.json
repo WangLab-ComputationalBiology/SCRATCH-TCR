@@ -1,8 +1,0 @@
-{
-    "dataset_inputs": "$.params.inputs",
-    "input_annotated_object": "$.params.dataset.paramJson.pipeline_parameters.input_annotated_object",
-    "clonotype_definition": "$.params.dataset.paramJson.repertoire_parameters.clonotype_definition",
-    "distance_metric": "$.params.dataset.paramJson.repertoire_parameters.distance_metric",
-    "sequence_type": "$.params.dataset.paramJson.repertoire_parameters.sequence_type",
-    "outdir": "$.params.dataset.s3|/data/"
-}
