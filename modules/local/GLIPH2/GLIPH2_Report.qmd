@@ -1,6 +1,6 @@
 ---
 title: "SCRATCH-TCR: GLIPH2 Analysis"
-author: "SCRATCH-TCR"
+author: "Syed Shujaat Ali Zaidi"
 format:
   html:
     toc: true
