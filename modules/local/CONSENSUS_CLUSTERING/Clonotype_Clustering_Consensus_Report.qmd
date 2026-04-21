@@ -1,6 +1,6 @@
 ---
 title: "SCRATCH-TCR: Clonotype Clustering Consensus Report"
-author: "SCRATCH-TCR"
+author: "Syed Shujaat Ali Zaidi"
 format:
   html:
     toc: true
